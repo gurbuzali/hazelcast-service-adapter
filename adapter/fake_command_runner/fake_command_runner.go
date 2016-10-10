@@ -4,7 +4,7 @@ package fake_command_runner
 import (
 	"sync"
 
-	"hazelcast-service-adapter/adapter"
+	"github.com/gurbuzali/hazelcast-service-adapter/adapter"
 )
 
 type FakeCommandRunner struct {

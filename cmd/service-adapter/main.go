@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"hazelcast-service-adapter/adapter"
+	"github.com/gurbuzali/hazelcast-service-adapter/adapter"
 	"github.com/pivotal-cf/on-demand-service-broker-sdk/serviceadapter"
 )
 
