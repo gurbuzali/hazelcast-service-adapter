@@ -1,0 +1,14 @@
+{
+  "deployment_name": "service-instance_1234",
+  "releases": [{
+    "name": "hazelcast",
+    "version": "dev.1",
+    "jobs": [
+      "hazelcast"
+    ]
+  }],
+  "stemcell": {
+    "stemcell_os": "BeOS",
+    "stemcell_version": "2"
+  }
+}
